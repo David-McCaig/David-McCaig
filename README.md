@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [PartsBin](https://github.com/David-McCaig/parts-bin)
 
+- 🚵‍♂️🎵 When I'm not coding **You can usually find me making music with vintage Synthesizers, Mountain biking and taking photos 📷**
+
 - 🌱 I’m currently learning **Typscript and Passport.js**
 
 - ⚡ Fun fact **I once rode my bike from London England to Cairo, Egypt**
