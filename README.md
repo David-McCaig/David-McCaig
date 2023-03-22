@@ -8,7 +8,7 @@
 🎨 &nbsp;Fun fact: I used to be an ad agency art director, and have worked on national campaigns for brands like KFC and LG.  
 🎹 &nbsp;When I'm not coding: I love making music with my collection of synthesizers, shooting photos and Mountain Biking.   
 🙋‍♂️ &nbsp;he/him
-📫 How to reach me: [[https://www.linkedin.com/in/david-mccaig]
+📫 How to reach me: https://www.linkedin.com/in/david-mccaig
 
 
 <h3 align="right">Check out some things I've made &nbsp;👇</h3>
