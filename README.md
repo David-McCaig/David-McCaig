@@ -13,5 +13,27 @@
 
 <h3 align="right">Check out some things I've made &nbsp;👇</h3>
 
+# Project Showcase
+
+## Parts Bin
+(https://github.com/David-McCaig/parts-bin)
+
+PartsBin is an online marketplace for buying and selling new and used Mountain bikes and Mountain bike parts. The idea is to create an online community where anyone in Ontario can buy and sell Mountain bike gear easily. Parts Bin is a fully responsive app with a beautifull UI.
+
+
+Tech Stack Frontend
+
+HTML5,CSS3,SASS,Javascript,React,NodeJS,Bootstrap
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,bootstrap)](https://skillicons.dev)
+
+![Rhythm](https://user-images.githubusercontent.com/79873814/203249486-3794e86f-7cc8-425d-938f-952430830632.gif)
+
+    
+Backend
+
+NodeJS, Express, MySQL, knex
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql)](https://skillicons.dev)
+
 
 
