@@ -25,7 +25,7 @@ Tech Stack Frontend
 
 HTML5,CSS3,SASS,Javascript,React,NodeJS,Bootstrap
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,bootstrap)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,bootstrap)](https://skillicons.dev) -->
 
 ![Rhythm](https://user-images.githubusercontent.com/79873814/203249486-3794e86f-7cc8-425d-938f-952430830632.gif)
 
