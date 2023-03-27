@@ -68,5 +68,24 @@ NodeJS, Express, MySQL, knex
 ## [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,knex)](https://skillicons.dev)
 ##
 
+## BrainFlix
+[Backend](https://github.com/David-McCaig/david-mccaig-brainflix-server) |
+[Frontend](https://github.com/David-McCaig/david-mccaig-brainflix)
+
+Brainflix is a fully responsive full-stack web application that mimics YouTube.  This was one of the first React apps that I created while attending the Brainstation Software Engineering bootcamp.  Some of the features include being able to select what video you would like to watch, commenting on each video and uploading a video. Initially the project was built using Express and node for the backend but I decided to go back and build a database using MySQL ,Knex, express and node.
+
+
+Frontend
+
+HTML5, CSS3, SASS, Javascript, React, NodeJS
+
+## [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,bootstrap)](https://skillicons.dev)
+
+Backend
+
+NodeJS, Express, MySQL, knex
+
+## [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,knex)](https://skillicons.dev)
+##
 
 
