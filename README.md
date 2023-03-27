@@ -34,7 +34,7 @@ Backend
 
 NodeJS, Express, MySQL, knex
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,knex)](https://skillicons.dev)
 
 
 
