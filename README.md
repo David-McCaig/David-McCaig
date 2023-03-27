@@ -53,9 +53,19 @@ If you'd like to check out our project, please make sure to view it in a width o
 
 ## InStock Warehousing & Inventory Management
 
-A group project collaborating using GitFlow and Agile (Jira) workflows to produce a warehousing application to manage inventory & warehouses. InStock is a full-stack react app with a backend that was made using MySQL, Knex, Express.js and Node.js. Building this inventory management app taught us the intricacies of these applications, the necessity of building reusable components, and working collaboratively.
+Instock is a warehouse and inventory management system that was built in a week by a team of four developers using Agile work flows (Jira) and GitFlow. With such a tight deadline it was really important to bring up any blockers you might be having to move the project forward. Instock is a fully responsive full-stack web application.
 
+Frontend
 
+HTML5, CSS3, SASS, Javascript, React, NodeJS
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,bootstrap)](https://skillicons.dev)
+
+Backend
+
+NodeJS, Express, MySQL, knex
+
+## [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,knex)](https://skillicons.dev)
+##
 
 
 
