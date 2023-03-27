@@ -51,6 +51,10 @@ If you'd like to check out our project, please make sure to view it in a width o
 <img width="388" alt="Screenshot 2022-12-09 at 1 15 45 PM" src="https://user-images.githubusercontent.com/69605071/206766670-93b0e791-f15d-4829-b355-4796859612fe.png">
 </p>
 
+## InStock Warehousing & Inventory Management
+
+A group project collaborating using GitFlow and Agile (Jira) workflows to produce a warehousing application to manage inventory & warehouses. InStock is a full-stack react app with a backend that was made using MySQL, Knex, Express.js and Node.js. Building this inventory management app taught us the intricacies of these applications, the necessity of building reusable components, and working collaboratively.
+
 
 
 
