@@ -23,7 +23,7 @@ PartsBin is an online marketplace for buying and selling new and used Mountain b
 
 Frontend
 
-HTML5,CSS3,SASS,Javascript,React,NodeJS,Bootstrap
+HTML5, CSS3, SASS, Javascript, React, NodeJS, Bootstrap
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,bootstrap)](https://skillicons.dev)
 
