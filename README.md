@@ -11,7 +11,7 @@
 📫 &nbsp;How to reach me: https://www.linkedin.com/in/david-mccaig
 
 
-<h3 align="right">Check out some things I've made &nbsp;👇</h3>
+<h3>Check out some things I've made &nbsp;👇</h3>
 
 # Project Showcase
 
