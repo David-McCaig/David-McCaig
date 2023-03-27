@@ -34,10 +34,10 @@ Backend
 
 NodeJS, Express, MySQL, knex
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,knex)](https://skillicons.dev)
+## [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,knex)](https://skillicons.dev)
 
  
- ##Get Out (2nd Place In Hackathon)
+ ## Get Out (2nd Place In Hackathon)
  (https://github.com/michaelshimeles/get-out)
 
 This project was created for a 24-hour hackathon by BrainStation and LoyaltyOne (the Air Miles company).
