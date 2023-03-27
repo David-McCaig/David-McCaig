@@ -58,7 +58,8 @@ Instock is a warehouse and inventory management system that was built in a week 
 Frontend
 
 HTML5, CSS3, SASS, Javascript, React, NodeJS
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,bootstrap)](https://skillicons.dev)
+
+## [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,bootstrap)](https://skillicons.dev)
 
 Backend
 
