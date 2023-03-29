@@ -16,7 +16,7 @@
 
 
 ## Parts Bin
-(https://github.com/David-McCaig/parts-bin)
+https://github.com/David-McCaig/parts-bin
 
 PartsBin is an online marketplace for buying and selling new and used Mountain bikes and Mountain bike parts. The idea is to create an online community where anyone in Ontario can buy and sell Mountain bike gear easily. Parts Bin is a fully responsive app with a beautifull UI.
 
@@ -43,7 +43,7 @@ NodeJS, Express, MySQL, knex
 ##
  
  ## Get Out (2nd Place In Hackathon)
- (https://github.com/michaelshimeles/get-out)
+ https://github.com/michaelshimeles/get-out
 
 This project was created for a 24-hour hackathon by BrainStation and LoyaltyOne (the Air Miles company).
 
