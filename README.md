@@ -8,6 +8,7 @@
 🌱 &nbsp;I’m currently learning **Typscript and Passport.js** 
 🎹 &nbsp;When I'm not coding: I love making music with my collection of synthesizers, shooting photos and Mountain Biking.   
 🙋‍♂️ &nbsp;he/him.
+
 📫 &nbsp;How to reach me: https://www.linkedin.com/in/david-mccaig 
 
 
