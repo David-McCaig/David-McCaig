@@ -26,7 +26,7 @@ PartsBin is an online marketplace for buying and selling new and used Mountain b
 
 
 
-Frontend
+**Frontend**
 
 HTML5, CSS3, SASS, Javascript, React, NodeJS, Bootstrap
 
@@ -35,7 +35,7 @@ HTML5, CSS3, SASS, Javascript, React, NodeJS, Bootstrap
 <!-- ![Rhythm](https://user-images.githubusercontent.com/79873814/203249486-3794e86f-7cc8-425d-938f-952430830632.gif) -->
 
     
-Backend
+**Backend**
 
 NodeJS, Express, MySQL, knex
 
@@ -62,13 +62,13 @@ Instock is a warehouse and inventory management system that was built in a week 
 
 ![Parts Bin](instock.gif)
 
-Frontend
+**Frontend**
 
 HTML5, CSS3, SASS, Javascript, React, NodeJS
 
 ## [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,bootstrap)](https://skillicons.dev)
 
-Backend
+**Backend**
 
 NodeJS, Express, MySQL, knex
 
@@ -76,20 +76,20 @@ NodeJS, Express, MySQL, knex
 ##
 
 ## BrainFlix
-[Backend](https://github.com/David-McCaig/david-mccaig-brainflix-server) |
-[Frontend](https://github.com/David-McCaig/david-mccaig-brainflix)
+ **[Frontend](https://github.com/David-McCaig/david-mccaig-brainflix)|[Backend](https://github.com/David-McCaig/david-mccaig-brainflix-server)
+
 
 Brainflix is a fully responsive full-stack web application that mimics YouTube.  This was one of the first React apps that I created while attending the Brainstation Software Engineering bootcamp.  Some of the features include being able to select what video you would like to watch, commenting on each video and uploading a video. Initially the project was built using Express and node for the backend but I decided to go back and build a database using MySQL ,Knex, express and node.
 
 ![](brain.gif)
 
-Frontend
+**Frontend**
 
 HTML5, CSS3, SASS, Javascript, React, NodeJS
 
 ## [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,bootstrap)](https://skillicons.dev)
 
-Backend
+**Backend**
 
 NodeJS, Express, MySQL, knex
 
