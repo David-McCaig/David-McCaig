@@ -8,7 +8,7 @@
 🌱 &nbsp;I’m currently learning **Typscript and Passport.js** 
 🎹 &nbsp;When I'm not coding: I love making music with my collection of synthesizers, shooting photos and Mountain Biking.   
 🙋‍♂️ &nbsp;he/him.
-📫 &nbsp;How to reach me: https://www.linkedin.com/in/david-mccaig
+📫 &nbsp;How to reach me: https://www.linkedin.com/in/david-mccaig .
 
 
 <h3>Check out some things I've made &nbsp;👇</h3>
@@ -59,6 +59,8 @@ If you'd like to check out our project, please make sure to view it in a width o
 ## InStock Warehousing & Inventory Management
 
 Instock is a warehouse and inventory management system that was built in a week by a team of four developers using Agile work flows (Jira) and GitFlow. Every morning we would have a stand-up. With such a tight deadline it was really important to bring up any blockers you might be having to move the project forward. Instock is a fully responsive full-stack web application.
+
+![Parts Bin](instock.gif)
 
 Frontend
 
