@@ -22,6 +22,8 @@ PartsBin is an online marketplace for buying and selling new and used Mountain b
 
 ![Parts Bin](https://s2.gifyu.com/images/download-2606c5f87e1f4333e.gif)
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/783455878?h=46672b3b96" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 Frontend
 
 HTML5, CSS3, SASS, Javascript, React, NodeJS, Bootstrap
