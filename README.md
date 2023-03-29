@@ -79,7 +79,7 @@ NodeJS, Express, MySQL, knex
 
 Brainflix is a fully responsive full-stack web application that mimics YouTube.  This was one of the first React apps that I created while attending the Brainstation Software Engineering bootcamp.  Some of the features include being able to select what video you would like to watch, commenting on each video and uploading a video. Initially the project was built using Express and node for the backend but I decided to go back and build a database using MySQL ,Knex, express and node.
 
-![](brainflix.gif)
+![](brain.gif)
 
 Frontend
 
