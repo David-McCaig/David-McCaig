@@ -20,8 +20,9 @@
 
 PartsBin is an online marketplace for buying and selling new and used Mountain bikes and Mountain bike parts. The idea is to create an online community where anyone in Ontario can buy and sell Mountain bike gear easily. Parts Bin is a fully responsive app with a beautifull UI.
 
-<!-- ![](https://imgur.com/b5jg1qv) -->
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/yJTIWCt" data-context="false" ><a href="//imgur.com/a/yJTIWCt"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+ ![](https://imgur.com/b5jg1qv)
+
+https://imgur.com/b5jg1qv
 
 Frontend
 
