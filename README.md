@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm David.
 
 ✍️ 🪖 🚀 ⚡️  
-**I'm a Software Engineer with a love for creating beautiful UI 🌄.**
+**I'm a Web Developer with a love for creating beautiful UI 🌄.**
 
 💼 &nbsp;🔭 I’m currently working on [PartsBin](https://github.com/David-McCaig/parts-bin)   
 🔭 &nbsp;I'm endlessly curious about systems, software, programming, the web, and CS.  
