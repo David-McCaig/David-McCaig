@@ -3,7 +3,7 @@
 ✍️ 🪖 🚀 ⚡️  
 **I'm a Web Developer with a love for creating beautiful UI 🌄.**
 
-💼 &nbsp;🔭 I’m currently working on [PartsBin](https://github.com/David-McCaig/parts-bin)   
+💼 &nbsp; I’m currently working on [PartsBin](https://github.com/David-McCaig/parts-bin)   
 🔭 &nbsp;I'm endlessly curious about systems, software, programming, the web, and CS.  
 🌱 &nbsp;I’m currently learning **Typescript and Socket.IO** 
 🎹 &nbsp;When I'm not coding: I love making music with my collection of synthesizers, shooting photos and Mountain Biking.   
