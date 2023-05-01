@@ -5,7 +5,7 @@
 
 💼 &nbsp;🔭 I’m currently working on [PartsBin](https://github.com/David-McCaig/parts-bin)   
 🔭 &nbsp;I'm endlessly curious about systems, software, programming, the web, and CS.  
-🌱 &nbsp;I’m currently learning **Typscript and Passport.js** 
+🌱 &nbsp;I’m currently learning **Typescript and Socket.IO** 
 🎹 &nbsp;When I'm not coding: I love making music with my collection of synthesizers, shooting photos and Mountain Biking.   
 🙋‍♂️ &nbsp;he/him.
 <br> 📫 &nbsp;How to reach me: https://www.linkedin.com/in/david-mccaig </br>
@@ -18,7 +18,7 @@
 ## Parts Bin
 https://github.com/David-McCaig/parts-bin
 
-PartsBin is an online marketplace for buying and selling new and used Mountain bikes and Mountain bike parts. The idea is to create an online community where anyone in Ontario can buy and sell Mountain bike gear easily. Parts Bin is a fully responsive app with a beautifull UI.
+PartsBin is an online marketplace for buying and selling new and used Mountain bikes and Mountain bike parts. It is a fully responsive Full Stack app with a beautiful UI. The app uses Token based authentication and the ability for users to post ads. I'm currently working on a private messaging feature using Sock.IO.
 
 ![Parts Bin](parts-bin.gif)
 
@@ -58,7 +58,7 @@ If you'd like to check out our project, please make sure to view it in a width o
 
 ## InStock Warehousing & Inventory Management
 
-Instock is a warehouse and inventory management system that was built in a week by a team of four developers using Agile work flows (Jira) and GitFlow. Every morning we would have a stand-up. With such a tight deadline it was really important to bring up any blockers you might be having to move the project forward. Instock is a fully responsive full-stack web application.
+Instock is a warehouse and inventory management system that was built in a week by a team of four developers using Agile work flows (Jira) and GitFlow. Every morning we would have a stand-up to mimic a work environment. I really enjoyed working with Jira, gitFLow and Scrum methodologies. It really allowed us to take a project that felt daunting at the time and break it down into more manageable bite sized pieces. Instock is a fully responsive full-stack web application.    
 
 ![Parts Bin](instock.gif)
 
