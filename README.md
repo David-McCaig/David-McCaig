@@ -18,7 +18,7 @@
 ## Parts Bin
 https://github.com/David-McCaig/parts-bin
 
-PartsBin is an online marketplace for buying and selling new and used Mountain bikes and Mountain bike parts. It is a fully responsive Full Stack app with a beautiful UI. The app uses Token based authentication and the ability for users to post ads. I'm currently working on a private messaging feature using Sock.IO.
+PartsBin is an online marketplace for buying and selling new and used Mountain bikes and Mountain bike parts. It is a fully responsive Full Stack app with a beautiful UI. The app uses Token based authentication and the ability for users to post ads. I'm currently working on a private messaging feature using Socket.IO.
 
 ![Parts Bin](parts-bin.gif)
 
