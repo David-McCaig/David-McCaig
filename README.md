@@ -66,7 +66,7 @@ Instock is a warehouse and inventory management system that was built in a week 
 
 HTML5, CSS3, SASS, Javascript, React, NodeJS
 
-## [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,bootstrap)](https://skillicons.dev)
+## [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs)](https://skillicons.dev)
 
 **Backend**
 
@@ -87,7 +87,7 @@ Brainflix is a fully responsive full-stack web application that mimics YouTube. 
 
 HTML5, CSS3, SASS, Javascript, React, NodeJS
 
-## [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,bootstrap)](https://skillicons.dev)
+## [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs)](https://skillicons.dev)
 
 **Backend**
 
