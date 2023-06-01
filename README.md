@@ -18,7 +18,8 @@
 ## Parts Bin
 Checkout the repo here 👉 https://github.com/David-McCaig/parts-bin
 
-Checkout the live site here 👉  https://imaginative-sfogliatella-45400a.netlify.app/
+Checkout the live site here 👉   [Part Bin live site]([https://www.example.com](https://imaginative-sfogliatella-45400a.netlify.app/)){:target="_blank"}
+
 
 You can use this guest login to checkout the app. Email: brock@gmail.com  Password: 123
 
