@@ -19,6 +19,7 @@
 Checkout the repo here 👉 https://github.com/David-McCaig/parts-bin
 
 Checkout the live site here 👉  https://imaginative-sfogliatella-45400a.netlify.app/
+
 You can use this guest login to checkout the app. Email: brock@gmail.com  Password: 123
 
 PartsBin is an online marketplace for buying and selling new and used Mountain bikes and Mountain bike parts. It is a fully responsive Full Stack app with a beautiful UI. The app uses Token based authentication and the ability for users to post ads. I've also created a chat app using Socket.IO so users can coommunicate with each other.
