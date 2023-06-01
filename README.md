@@ -16,9 +16,12 @@
 
 
 ## Parts Bin
-https://github.com/David-McCaig/parts-bin
+Checkout the repo here 👉 https://github.com/David-McCaig/parts-bin
 
-PartsBin is an online marketplace for buying and selling new and used Mountain bikes and Mountain bike parts. It is a fully responsive Full Stack app with a beautiful UI. The app uses Token based authentication and the ability for users to post ads. I'm currently working on a private messaging feature using Socket.IO.
+Checkout the live site here 👉  https://imaginative-sfogliatella-45400a.netlify.app/
+You can use this guest login to checkout the app. Email: brock@gmail.com  Password: 123
+
+PartsBin is an online marketplace for buying and selling new and used Mountain bikes and Mountain bike parts. It is a fully responsive Full Stack app with a beautiful UI. The app uses Token based authentication and the ability for users to post ads. I've also created a chat app using Socket.IO so users can coommunicate with each other.
 
 ![Parts Bin](parts-bin-two.gif)
 
@@ -28,9 +31,9 @@ PartsBin is an online marketplace for buying and selling new and used Mountain b
 
 **Frontend**
 
-HTML5, CSS3, SASS, Javascript, React, NodeJS, Bootstrap
+HTML5, CSS3, SASS, Javascript, React, NodeJS, Socket.IO Tailwind, Ant Design
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,tailwind)](https://skillicons.dev)
 
 <!-- ![Rhythm](https://user-images.githubusercontent.com/79873814/203249486-3794e86f-7cc8-425d-938f-952430830632.gif) -->
 
