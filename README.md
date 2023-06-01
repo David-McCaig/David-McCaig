@@ -32,7 +32,7 @@ PartsBin is an online marketplace for buying and selling new and used Mountain b
 
 **Frontend**
 
-HTML5, CSS3, SASS, Javascript, React, NodeJS, Socket.IO Tailwind, Ant Design
+HTML5, CSS3, SASS, Javascript, React, NodeJS, Socket.IO, Tailwind, Ant Design
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,tailwind)](https://skillicons.dev)
 
