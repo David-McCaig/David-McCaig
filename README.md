@@ -26,10 +26,6 @@ PartsBin is an online marketplace for buying and selling new and used Mountain b
 
 ![Parts Bin](parts-bin-two.gif)
 
-
-
-
-
 **Frontend**
 
 HTML5, CSS3, SASS, Javascript, React, NodeJS, Socket.IO, Tailwind, Ant Design
@@ -45,6 +41,7 @@ NodeJS, Express, MySQL, knex
 
 ## [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,knex)](https://skillicons.dev)
 ##
+
 
 ## BrainFlix
  [Frontend](https://github.com/David-McCaig/david-mccaig-brainflix)|[Backend](https://github.com/David-McCaig/david-mccaig-brainflix-server)
@@ -66,27 +63,6 @@ HTML5, CSS3, SASS, Javascript, React, NodeJS
 NodeJS, Express, MySQL, knex
 
 ## [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,knex)](https://skillicons.dev)
-#### BrainFlix
- [Frontend](https://github.com/David-McCaig/david-mccaig-brainflix)|[Backend](https://github.com/David-McCaig/david-mccaig-brainflix-server)
- 
- Checkout the live site here 👉   [Part Bin live site](https://elegant-meringue-56d20b.netlify.app/)
-
-Brainflix is a fully responsive full-stack web application that mimics YouTube.  This was one of the first React apps that I created while attending the Brainstation Software Engineering bootcamp.  Some of the features include being able to select what video you would like to watch, commenting on each video and uploading a video. Initially the project was built using Express and node for the backend but I decided to go back and build a database using MySQL ,Knex, express and node.
-
-![](brain.gif)
-
-**Frontend**
-
-HTML5, CSS3, SASS, Javascript, React, NodeJS
-
-## [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs)](https://skillicons.dev)
-
-**Backend**
-
-NodeJS, Express, MySQL, knex
-
-## [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,knex)](https://skillicons.dev)
-##
  
  ## Get Out (2nd Place In Hackathon)
  https://github.com/michaelshimeles/get-out
