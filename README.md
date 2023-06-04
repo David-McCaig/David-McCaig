@@ -37,7 +37,7 @@ HTML5, CSS3, SASS, Javascript, React, NodeJS, Socket.IO, Tailwind, Ant Design
     
 **Backend**
 
-NodeJS, Express, MySQL, knex
+NodeJS, Express, MySQL, knex, Cloudinary
 
 ## [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,knex)](https://skillicons.dev)
 ##
