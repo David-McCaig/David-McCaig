@@ -22,7 +22,7 @@ Checkout the live site here 👉   [Parts Bin live site](https://imaginative-sfo
 
 You can use this guest login to checkout the app. Email: brock@gmail.com  Password: 123
 
-PartsBin is an online marketplace designed for mountain biking enthusiasts. Find new/used bikes and parts, enjoy a responsive UI, secure token-based authentication, and the ability to post ads. Photos are stored with Cloudinary, and a chat app using Socket.IO enables easy communication. State management is handled with useContext. 
+PartsBin is an online marketplace designed for mountain biking enthusiasts. Find new/used bikes and parts, enjoy a responsive UI, secure token-based authentication, and the ability to post ads. Photos are stored with Cloudinary, and a chat app using Socket.IO enables easy communication. State management is handled using React's useContext hook. 
 
 ![Parts Bin](parts-bin-two.gif)
 
