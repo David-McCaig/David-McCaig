@@ -5,7 +5,7 @@
 
 💼 &nbsp; I’m currently building a private messenger feature using Socket.IO for [PartsBin](https://github.com/David-McCaig/parts-bin)   
 🔭 &nbsp;I'm endlessly curious about systems, software, programming, the web, and CS.  
-🌱 &nbsp;I’m currently learning **Typescript and Socket.IO** 
+🌱 &nbsp;I’m currently learning **Typescript and Redux** 
 🎹 &nbsp;When I'm not coding: I love making music with my collection of synthesizers, shooting photos and Mountain Biking.   
 🙋‍♂️ &nbsp;he/him.
 <br> 📫 &nbsp;How to reach me: https://www.linkedin.com/in/david-mccaig </br>
