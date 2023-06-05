@@ -67,9 +67,11 @@ NodeJS, Express, MySQL, knex
  ## Get Out (2nd Place In Hackathon)
  https://github.com/michaelshimeles/get-out
 
-This project was created for a 24-hour hackathon by BrainStation and LoyaltyOne (the Air Miles company).
+During a 24-hour Hackathon at the Brainstation Web Development Bootcamp, our team, composed of two UX designers, one Data Scientist, and two Web Developers, set out to revamp LoyaltyOne's Air 
 
-Our team, **GoTo Technologies**, built a MVP called Get Out in just 24 hours. We're proud to say that we came in **2nd place in the competition**.
+Miles reward program for Millennials and Gen Z. Our solution? An engaging application that gamifies the experience using a star balance to track progress. We made earning and redeeming points a 
+
+breeze with a user-friendly digital wallet earning us **2nd place in the competition**.
 
 If you'd like to check out our project, please make sure to view it in a width of 390px for the best experience.
 
