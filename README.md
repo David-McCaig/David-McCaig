@@ -16,7 +16,7 @@
 
 
 ## Parts Bin
-Checkout the repo here 👉 https://github.com/David-McCaig/parts-bin
+[Frontend](https://github.com/David-McCaig/parts-bin-client)|[Backend](https://github.com/David-McCaig/parts-bin-server)
 
 Checkout the live site here 👉   [Parts Bin live site](https://imaginative-sfogliatella-45400a.netlify.app/)
 
