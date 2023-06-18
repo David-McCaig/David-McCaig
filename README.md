@@ -77,6 +77,9 @@ If you'd like to check out our project, please make sure to view it in a width o
 </p>
 
 ## InStock Warehousing & Inventory Management
+[Frontend](https://github.com/hunterwedgbury/instock-client)|[Backend](https://github.com/David-McCaig/instock-api)
+ 
+Checkout the live site here 👉   [InStock](https://dancing-croissant-6b58eb.netlify.app/)
 
 Instock is a warehouse and inventory management system that was built in a week by a team of four developers using Agile work flows (Jira) and GitFlow. Every morning we would have a stand-up to mimic a work environment. I really enjoyed working with Jira, gitFLow and Scrum methodologies. It really allowed us to take a project that felt daunting at the time and break it down into more manageable bite sized pieces. Instock is a fully responsive full-stack web application.    
 
