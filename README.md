@@ -9,7 +9,7 @@
 🎹 &nbsp;When I'm not coding: I love making music with my collection of synthesizers, shooting photos and Mountain Biking.   
 🙋‍♂️ &nbsp;he/him.
 <br> 📫 &nbsp;How to reach me: https://www.linkedin.com/in/david-mccaig </br>
- 🖥️ &nbsp;Check out my portfolio site here: https://davidmccaig.dev/ 
+ 🖥️ &nbsp;Check out my portfolio site here: https://davidmccaig.dev
 
 
 <h3>Check out some things I've made &nbsp;👇</h3>
