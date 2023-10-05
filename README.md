@@ -11,7 +11,7 @@
  🖥️ &nbsp;Check out my portfolio site here: https://davidmccaig.dev
 
 
-<h3>Check out some things I've made &nbsp;👇</h3>
+<h3>Check out some things I've made 👇</h3>
 
 
 
