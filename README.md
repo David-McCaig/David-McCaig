@@ -5,7 +5,7 @@
 
 💼 &nbsp; I’m currently working on [EvenShare](https://github.com/David-McCaig/even-share)   
 🔭 &nbsp;I'm endlessly curious about systems, software, programming, the web, and CS.  
-🌱 &nbsp;I’m currently learning **Typescript and Redux** 
+🌱 &nbsp;I’m currently reading Grokking algorithms to deepen my DSA knowledge.
 🎹 &nbsp;When I'm not coding: I love making music with my collection of synthesizers, shooting photos and Mountain Biking.   
 <br> 📫 &nbsp;How to reach me: https://www.linkedin.com/in/david-mccaig </br>
  🖥️ &nbsp;Check out my portfolio site here: https://davidmccaig.dev
