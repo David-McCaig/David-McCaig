@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 # Hello
 
-My name is David, and I am a full stack web developer currently currently looking for a developer role. I enjoy using modern web technologies to build applications that both serve a purpose and solve technical problems in interesting ways. When I'm not developing, you can find me reading, deep diving on new programming technologies, Mountain biking and making music on my collection of synthesizers.
+My name is David, and I am a full stack web developer currently looking for a developer role. I enjoy using modern web technologies to build applications that both serve a purpose and solve technical problems in interesting ways. When I'm not developing, you can find me reading, deep diving on new programming technologies, Mountain biking and making music on my collection of synthesizers.
 
 ---
 
