@@ -24,7 +24,7 @@ My name is David, and I am a full stack web developer currently currently lookin
 
 ### Previous
 
-- [Frontend](https://github.com/David-McCaig/parts-bin-client)|[Backend](https://github.com/David-McCaig/parts-bin-server)
+- [PartsBin][Frontend](https://github.com/David-McCaig/parts-bin-client)|[Backend](https://github.com/David-McCaig/parts-bin-server)
 
 ## 💻 What I am currently learning
 
