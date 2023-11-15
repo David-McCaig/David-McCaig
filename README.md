@@ -34,7 +34,7 @@ My name is David, and I am a full stack web developer currently looking for a de
 
 - Grokking Algorithms by Aditya Y. Bhargava
 
-## 📫 Where to find me
+## <span style="color:black">📫 Where to find me</span>
 
 - [LinkedIn](https://www.linkedin.com/in/david-mccaig/)
 - [Portfolio](https://davidmccaig.dev/)
