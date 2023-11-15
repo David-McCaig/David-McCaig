@@ -18,7 +18,7 @@ My name is David, and I am a full stack web developer currently looking for a de
 
 ---
 
-## 🔭 What I am currently working on
+ 🔭 What I am currently working on
 
 - I’m currently working on [EvenShare](https://github.com/David-McCaig/even-share)  
 
