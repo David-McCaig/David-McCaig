@@ -20,7 +20,7 @@ I'm a  Full Stack Developer . I enjoy using modern web technologies to build app
 
 ### 🔭 What I am currently working on
 
-- I’m currently working on [EvenShare](https://github.com/David-McCaig/even-share)  
+- I’m currently working on [Volume Light](https://github.com/David-McCaig/soundbright)  
 
 ### Previous
 
