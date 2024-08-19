@@ -24,7 +24,7 @@ I'm a  Full Stack Developer . I enjoy using modern web technologies to build app
 
 ### Previous
 
-- PartsBin [Frontend](https://github.com/David-McCaig/parts-bin-client)|[Backend](https://github.com/David-McCaig/parts-bin-server)
+- EvenShare (https://github.com/David-McCaig/even-share)
 
 ## 💻 What I am currently learning
 
