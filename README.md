@@ -24,7 +24,7 @@ I'm a  Full Stack Developer . I enjoy using modern web technologies to build app
 
 ### Previous
 
-- EvenShare (https://github.com/David-McCaig/even-share)
+- [EvenShare](https://github.com/David-McCaig/even-share)
 
 ## 💻 What I am currently learning
 
