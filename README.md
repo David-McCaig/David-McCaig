@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 # Hello 👋, I'm David
 
-I'm a Front-End Developer . I enjoy using modern web technologies to build applications that both serve a purpose and solve technical problems in interesting ways. When I'm not programming, you can find me reading, deep diving on new programming technologies, Mountain biking and making music on my collection of synthesizers.
+I'm a Front-End Developer. I enjoy using modern web technologies to build applications that both serve a purpose and solve technical problems in interesting ways. When I'm not programming, you can find me reading, deep diving on new programming technologies, Mountain biking and making music on my collection of synthesizers.
 
 ---
 
