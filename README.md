@@ -32,7 +32,7 @@ I'm a Front-End Developer. I enjoy using modern web technologies to build applic
 
 ## 📖 What I am currently reading
 
-- Grokking Algorithms by Aditya Y. Bhargava
+- Refactoring UI by Adam Wathan and Steve Schoger
 
 ## <span style="color:black">📫 Where to find me</span>
 
